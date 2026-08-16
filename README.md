@@ -17,7 +17,7 @@ Since Terrail is built using Python, please ensure the following requirements ar
 
     Install Python version 3.10 or newer
     ⚠️ When installing Python, make sure to check the "Add Python to PATH" box
-    After installation → open the TERRAIL LAUNCHER → select 1 → type "iya" (yes) → PLAY!
+    After installation → open the TERRAIL LAUNCHER → select 1 → type "yes → PLAY!
 
     (Just like Minecraft Java Edition requires Java to be installed!)
 
