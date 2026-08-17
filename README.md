@@ -10,7 +10,7 @@ We apologize for any inconvenience caused by bugs that might disrupt gameplay. �
 
 🐛 BUG REPORTS
 If you find a bug or something isn't working as expected, please report it via the following link:
-👉 https://forms.gle/Nd5ENh4M6dLqmeoQ6
+👉 https://forms.gle/xqX14PiCCszxaiGq9
 
 
 
